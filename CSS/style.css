@@ -9545,6 +9545,13 @@ a.text-dark:hover {
   justify-content: center;
 }
 
+.col-foto-team img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
 .col-lg-4-text- {
   display: flex;
   flex-direction: column;
@@ -9647,5 +9654,7 @@ a.text-dark:hover {
   left: 0;
   z-index: -1;
 }
+
+
 
 /*# sourceMappingURL=bootstrap.min.css.map */
