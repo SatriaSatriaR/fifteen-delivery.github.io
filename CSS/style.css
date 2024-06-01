@@ -9639,5 +9639,13 @@ a.text-dark:hover {
 .link>a:hover {
   background-color: rgb(43, 22, 119);
 }
+.container-main img {
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  top: 55px;
+  left: 0;
+  z-index: -1;
+}
 
 /*# sourceMappingURL=bootstrap.min.css.map */
