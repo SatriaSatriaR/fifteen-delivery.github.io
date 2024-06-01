@@ -9507,31 +9507,31 @@ a.text-dark:hover {
   margin-bottom: 20px;
 }
 .satria {
-  background: url(./assets/img/satria.jpg);
+  background: url(assets/img/satria.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .danisya {
-  background: url(./assets/img/danisya.jpg);
+  background: url(assets/img/danisya.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .fawwaz {
-  background: url(./assets/img/fawwaz.jpeg);
+  background: url(assets/img/fawwaz.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .aini {
-  background: url(./assets/img/aini.jpg);
+  background: url(assets/img/aini.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .rifqi {
-  background: url(./assets/img/rifqi.jpeg);
+  background: url(assets/img/rifqi.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
