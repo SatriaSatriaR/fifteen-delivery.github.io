@@ -9507,7 +9507,7 @@ a.text-dark:hover {
   margin-bottom: 20px;
 }
 .satria {
-  background: url(.assets/img/satria.jpg);
+  background: url(assets/img/satria.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
