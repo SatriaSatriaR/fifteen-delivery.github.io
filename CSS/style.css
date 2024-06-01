@@ -6209,7 +6209,7 @@ a.close.disabled {
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
-  background: url(/assets/img/Paket_Asiap.png) no-repeat;
+  background: url(./assets/img/Paket_Asiap.png) no-repeat;
   background-size: cover;
   background-position: 75% 43%;
 }
